@@ -1,5 +1,3 @@
 
-Try to create a class
-
-# python-convert-from-hijri-to-gregorian-and-vv
+# Hijri to Gregorian (script) and vice versa
 using hijri_converter library
